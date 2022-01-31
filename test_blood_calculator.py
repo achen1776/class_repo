@@ -15,6 +15,9 @@ def test_check_HDL(input_HDL, expected):
     
 ##Look into pep 8 style guide
     
+<<<<<<< HEAD
 #pytest -v --pycodestyle
 
 #pylint
+=======
+>>>>>>> 5873fe1fc004717bc5943a7d2f648345dde66981
